@@ -17,6 +17,11 @@ An intelligent collection of specialized skills for **Claude Code** that automat
 
 ---
 
+## Demo
+
+<img width="1280" height="766" alt="Claude Code Salesforce Skills" src="https://github.com/user-attachments/assets/88858744-0adb-4cc4-a205-23336ed3e5ff" />
+
+---
 ## Features
 
 - **Object Creation** – Automatically generate custom objects with proper sharing models, name fields, and deployment configuration.
@@ -218,6 +223,8 @@ salesforce-claude-skills/
 ├── sf-page-create/
 │   └── skill.md
 ├── sf-sharing-configure/
+│   └── skill.md
+├── sf-translation-create/
 │   └── skill.md
 ├── sf-prefix-detect/
 │   └── skill.md
